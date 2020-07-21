@@ -1,5 +1,7 @@
-# reading-list
+# Alex's Reading List 📚
 
-books that i'm currently reading [are here](https://github.com/laughnan/reading-list/issues/assigned/laughnan).
+This list is synced with [my Goodreads account](https://www.goodreads.com/user/show/66411575-alex-laughnan). I've labeled the books statuses:
 
-books that i have already read [are here](https://github.com/laughnan/reading-list/issues?q=is%3Aissue+is%3Aclosed+assignee%3Alaughnan).
+- [Reading](https://github.com/laughnan/reading-list/issues?q=is%3Aopen+is%3Aissue+label%3Acurrently-reading)
+- [To Read](https://github.com/laughnan/reading-list/issues?q=is%3Aopen+is%3Aissue+label%3Ato-read)
+- [Read](https://github.com/laughnan/reading-list/issues?q=is%3Aopen+is%3Aissue+label%3Aread)
